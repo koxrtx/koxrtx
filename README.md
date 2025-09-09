@@ -29,4 +29,4 @@
 
 | GitHub プロフィールビュー | Qiita 投稿数 | Qiita views |
 |--------------------------|-------------|-------------|
-| ![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
+| ![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx) | [![](https://qiita-badge.apiapi.app/s/koxrtx/views.svg)](https://qiita.com/koxrtx) |
