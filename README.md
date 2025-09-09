@@ -19,8 +19,9 @@ Ogawa_konomi
 ### 📊 GitHub Cards
 <p align="left">
  <!-- 最もコミットしている言語 -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koxrtx&theme=gruvbox)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koxrtx&theme=gruvbox)](https://github.com/koxrtx)
 
+U
 <!-- GitHub 統計 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=gruvbox)
 </p>
