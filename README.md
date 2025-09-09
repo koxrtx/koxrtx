@@ -10,6 +10,7 @@
 - - -
 
 ### 📝 技術記事
+### 🏆 人気記事（1000ビュー突破！）
 - [RailsアプリをRender.comとNeonにデプロイした手順](https://qiita.com/xxxx/items/xxxxxx)
 
 ### 📝 note
@@ -20,9 +21,9 @@
 
 ### 📊 GitHub Cards
 
-| 言語割合 | GitHub統計 |
-|----------|------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
+| 言語割合 | GitHub統計 | Qiitaビュー |
+|----------|------------|------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) | [![Qiita views](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
 
 
 
