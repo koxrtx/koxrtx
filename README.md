@@ -23,7 +23,7 @@
 
 | 言語割合 | GitHub統計 | Qiitaビュー |
 |----------|------------|------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) | [![Qiita views](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
 
 
 
