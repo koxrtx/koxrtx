@@ -4,11 +4,7 @@ Ogawa_konomi
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koxrtx/koxrtx/main/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koxrtx/koxrtx/main/img/snake.svg">
-  <img alt="" src="https://raw.githubusercontent.com/koxrtx/koxrtx/main/img/snake.svg">
-</picture>
+![GitHub contribution snake](https://raw.githubusercontent.com/koxrtx/koxrtx/main/img/snake.svg)
 
 
 ### 📝 技術記事
