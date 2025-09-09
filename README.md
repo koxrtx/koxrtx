@@ -27,9 +27,6 @@ Ogawa_konomi
   <a href="https://github.com/koxrtx">
     <img height="20" src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" />
   </a>
-  <!-- Qiita 投稿数 -->
-  <a href="http://qiita.com/koxrtx">
-  <img height="20" src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg?style=flat&color=brightgreen" />
-</a>
-  </a>
 </p>
+  <!-- Qiita 投稿数 -->
+  [![My Qiita posts](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx)
