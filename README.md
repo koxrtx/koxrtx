@@ -4,7 +4,7 @@ Ogawa_konomi
 
 ---
 
-![](https://raw.githubusercontent.com/ユーザー名/リポジトリ名/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/koxrtx/koxrtx/output/github-contribution-grid-snake.svg)
 
 
 ### 📝 技術記事
