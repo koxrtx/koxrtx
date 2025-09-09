@@ -21,12 +21,12 @@
 
 ### 📊 GitHub Cards
 
-| 言語割合 | GitHub統計 | Qiitaビュー |
-|----------|------------|------------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
+| 言語割合 | GitHub統計 |
+|----------|------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
 
 
-| GitHub プロフィールビュー | Qiita 投稿数 |
-|--------------------------|-------------|
-| ![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx) |
+| GitHub プロフィールビュー | Qiita 投稿数 | Qiita views |
+|--------------------------|-------------|-------------|
+| ![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx) |
