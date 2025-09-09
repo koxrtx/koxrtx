@@ -3,6 +3,7 @@ Ogawa_konomi
 個人開発で作った Rails アプリや技術記事をまとめています。
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koxrtx/Ogawa_konomi/main/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koxrtx/Ogawa_konomi/main/img/snake.svg">
