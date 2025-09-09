@@ -29,9 +29,6 @@ Ogawa_konomi
   </a>
   <!-- Qiita 投稿数 -->
   <a href="http://qiita.com/koxrtx">
-    <img src="https://img.shields.io/badge/dynamic/json?color=0abde3&label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=4169E1&label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json" />
-    <img src="https://img.shields.io/badge/dynamic/json?color=1E90FF&label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json&colorB=0abde3" />
   </a>
 </p>
