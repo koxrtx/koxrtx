@@ -18,8 +18,11 @@ Ogawa_konomi
 
 ### 📊 GitHub Cards
 <p align="left">
-  <img src="https://img.shields.io/badge/Ruby-60%25-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-30%25-yellow?style=flat-square" />
+ <!-- 最もコミットしている言語 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koxrtx&theme=gruvbox)
+
+<!-- GitHub 統計 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=gruvbox)
 </p>
 
 <p align="left">
