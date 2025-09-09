@@ -3,11 +3,11 @@
 - 🚀 ポートフォリオ用アプリや技術記事を公開  
 - 💡 学習メモ・技術備忘録もまとめています  
 - 🌱 現在は Docker / Rails / Render / Neon を触っています
----
+- - -
 
 ![](https://raw.githubusercontent.com/koxrtx/koxrtx/output/github-contribution-grid-snake.svg)
 
----
+- - -
 
 ### 📝 技術記事
 - [RailsアプリをRender.comとNeonにデプロイした手順](https://qiita.com/xxxx/items/xxxxxx)
@@ -16,7 +16,7 @@
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
 - [卒業制作について　〜画面遷移図編〜](https://note.com/proper_koxrtx/n/na011eb4ef22c)
 
----
+- - -
 
 ### 📊 GitHub Cards
 
