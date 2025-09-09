@@ -22,11 +22,6 @@ Ogawa_konomi
 |----------|------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight)
-
-
 <p align="left">
   <!-- GitHub プロフィールビュー数 -->
   <a href="https://github.com/koxrtx">
