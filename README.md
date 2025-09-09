@@ -22,6 +22,6 @@ Ogawa_konomi
 |----------|------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
-　![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow)
-
-  [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx)
+| GitHub プロフィールビュー | Qiita 投稿数 |
+|--------------------------|-------------|
+| ![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow) | [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx) |
