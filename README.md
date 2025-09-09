@@ -7,10 +7,10 @@
 
 ![](https://raw.githubusercontent.com/koxrtx/koxrtx/output/github-contribution-grid-snake.svg)
 
+---
+
 ### 📝 技術記事
 - [RailsアプリをRender.comとNeonにデプロイした手順](https://qiita.com/xxxx/items/xxxxxx)
-
----
 
 ### 📝 note
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
