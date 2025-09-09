@@ -28,5 +28,5 @@ Ogawa_konomi
     <img height="20" src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" />
   </a>
 </p>
-  <!-- Qiita 投稿数 -->
-  [![My Qiita posts](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx)
+
+  [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx)
