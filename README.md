@@ -22,11 +22,6 @@ Ogawa_konomi
 |----------|------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
-<p align="left">
-  <!-- GitHub プロフィールビュー数 -->
-  <a href="https://github.com/koxrtx">
-    <img height="20" src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" />
-  </a>
-</p>
+　![](https://komarev.com/ghpvc/?username=koxrtx&color=yellow)
 
   [![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](http://qiita.com/koxrtx)
