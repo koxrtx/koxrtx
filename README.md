@@ -18,6 +18,10 @@ Ogawa_konomi
 
 ### 📊 GitHub Cards
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=2077)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight)
