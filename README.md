@@ -29,6 +29,7 @@ Ogawa_konomi
   </a>
   <!-- Qiita 投稿数 -->
   <a href="http://qiita.com/koxrtx">
-  <img height="20" src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg" />
+  <img height="20" src="https://img.shields.io/badge/dynamic/json?label=Qiita%20posts&query=%24.items.length&url=https%3A%2F%2Fqiita.com%2Fkoxrtx%2Fitems.json&colorB=0abde3&style=flat-square" />
+</a>
   </a>
 </p>
