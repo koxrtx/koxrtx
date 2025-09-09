@@ -2,7 +2,7 @@ name: GenerateSnake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 1 * * *"  # 毎日 1:00 UTC に自動実行
 
 jobs:
   update-repository:
@@ -24,3 +24,4 @@ jobs:
         with:
           branch: main
           message: ":rocket: Update snake SVGs"
+          
