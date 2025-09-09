@@ -1,0 +1,29 @@
+name: GenerateSnake
+on:
+  workflow_dispatch: # 手動実行用
+  schedule:          # 毎日自動実行
+    - cron: "0 1 * * *"
+
+jobs:
+  update-repository:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./img/snake.svg
+            ./img/snake-dark.svg?palette=github-dark
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@main
+        with:
+          branch: main  # デフォルトブランチ名に合わせる
+          message: ":rocket: Update snake SVGs"

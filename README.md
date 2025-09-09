@@ -3,6 +3,11 @@ Ogawa_konomi
 個人開発で作った Rails アプリや技術記事をまとめています。
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="./img/snake.svg">
+</picture>
 
 
 ### 📝 技術記事
