@@ -17,12 +17,12 @@ Ogawa_konomi
 - [卒業制作について　〜画面遷移図について〜](https://note.com/proper_koxrtx/n/na011eb4ef22c)
 
 ### 📊 GitHub Cards
-<p align="left">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=gruvbox)
 
 <!-- GitHub 統計 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=gruvbox)
-</p>
+
 
 <p align="left">
   <!-- GitHub プロフィールビュー数 -->
