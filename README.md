@@ -24,7 +24,7 @@
 |----------|------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
----
+
 
 | GitHub プロフィールビュー | Qiita 投稿数 |
 |--------------------------|-------------|
