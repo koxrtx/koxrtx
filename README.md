@@ -25,10 +25,10 @@ Ogawa_konomi
 <p align="left">
   <!-- GitHub プロフィールビュー数 -->
   <a href="https://github.com/koxrtx">
-  <img height="20" src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" />
   </a>
   <!-- Qiita 投稿数 -->
-<a href="http://qiita.com/koxrtx">
-  <img height="20" src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg?style=flat&color=brightgreen" />
-</a>
+  <a href="http://qiita.com/koxrtx">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg?style=flat&color=brightgreen" />
+  </a>
 </p>
