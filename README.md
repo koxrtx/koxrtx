@@ -1,4 +1,4 @@
-# Ogawa_konomi
+Ogawa_konomi
 こんにちは！👋
 個人開発で作った Rails アプリや技術記事をまとめています。
 
