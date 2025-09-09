@@ -18,8 +18,8 @@ Ogawa_konomi
 
 ### 📊 GitHub Cards
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=solarized-light" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=solarized-light" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=solarized-light" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=solarized-light" />
 </p>
 
 <p align="left">
