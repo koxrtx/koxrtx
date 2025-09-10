@@ -16,7 +16,7 @@
 - - -
 
 ### 📝 技術記事
-### 🏆 人気記事（2000ビュー突破！）
+### 🏆 初投稿でQiita公式トレンド入り（2500ビュー突破！）
 - [RailsアプリをRender.comとNeonにデプロイした手順](https://qiita.com/koxrtx/items/92c014a692a00a91096f?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
 
 ### 📝 note
