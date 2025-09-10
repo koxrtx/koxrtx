@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" alt="profile views" />
   <a href="https://qiita.com/koxrtx">
     <img src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg" alt="qiita posts" />
