@@ -25,6 +25,9 @@
 |----------|------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koxrtx&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=koxrtx&theme=tokyonight) |
 
+[![](https://qiita-badge.apiapi.app/s/koxrtx/lgtms.svg)](https://qiita.com/koxrtx)
+[![](https://qiita-badge.apiapi.app/s/koxrtx/posts.svg)](https://qiita.com/koxrtx)
+
 
 
 | GitHub プロフィールビュー | Qiita 投稿数 |
