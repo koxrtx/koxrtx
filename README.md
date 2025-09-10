@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=koxrtx&color=yellow" alt="profile views" />
+  <a href="https://qiita.com/koxrtx">
+    <img src="https://qiita-badge.apiapi.app/s/koxrtx/posts.svg" alt="qiita posts" />
+  </a>
+</div>
 個人開発で Rails を中心にアプリ制作しています。  
 
 - 🚀 ポートフォリオ用アプリや技術記事を公開  
