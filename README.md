@@ -22,6 +22,7 @@
 ### 📝 note
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
 - [卒業制作について　〜画面遷移図編〜](https://note.com/proper_koxrtx/n/na011eb4ef22c)
+- [卒業制作について　〜ER図編〜](https://note.com/proper_koxrtx/n/ndc200e67e37e)
 
 - - -
 
