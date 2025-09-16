@@ -19,6 +19,8 @@
 ### 🏆 初投稿でQiita公式トレンド入り（6000ビュー突破！）
 - [【初心者向け】Render.comとNeonで作ったRailsアプリを無料デプロイした手順](https://qiita.com/koxrtx/items/92c014a692a00a91096f?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
 
+-[Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ①](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
+
 ### 📝 note
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
 - [卒業制作について　〜画面遷移図編〜](https://note.com/proper_koxrtx/n/na011eb4ef22c)
