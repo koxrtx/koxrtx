@@ -19,6 +19,8 @@
 ### 🏆 初投稿でQiita公式トレンド入り（6000ビュー突破！）
 - [【初心者向け】Render.comとNeonで作ったRailsアプリを無料デプロイした手順](https://qiita.com/koxrtx/items/92c014a692a00a91096f?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
 
+### その他技術記事
+
 - [Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ①](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
 
 - [RailsでActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
