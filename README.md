@@ -21,7 +21,9 @@
 
 - [Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ①](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
 
-- RailsでActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
+- [RailsでActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
+
+
 ### 📝 note
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
 - [卒業制作について　〜画面遷移図編〜](https://note.com/proper_koxrtx/n/na011eb4ef22c)
