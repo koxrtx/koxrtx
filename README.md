@@ -23,7 +23,7 @@
 
 - [Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ①](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
 
-- [RailsでActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
+- [Rails8でActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
 
 - [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a)
 
