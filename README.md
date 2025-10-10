@@ -25,6 +25,8 @@
 
 - [RailsでActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
 
+- [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a)
+
 
 ### 📝 note
 - [卒業制作について 〜README編〜](https://note.com/proper_koxrtx/n/n01b649292729?from=notice)
