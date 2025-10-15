@@ -27,7 +27,7 @@
 
 - [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a)
 
-- [[Rails8】Rails開発で出会ったエラーとその解決まとめ](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
+- [【Rails8】Rails開発で出会ったエラーとその解決まとめ](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
 
 
 ### 📝 note
