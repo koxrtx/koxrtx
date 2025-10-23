@@ -23,6 +23,7 @@
 - [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a) **（1000ビュー突破）**
 - [Rails8でActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
 - [【Rails8】Rails開発で出会ったエラーとその解決まとめ](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
+- [Rails8でLINEログイン実装時に遭遇した2つのエラーと解決方法](https://qiita.com/koxrtx/items/76ebfd9b0d6174a08a4a)
 
 ### 開発実践記事
 -  [Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
