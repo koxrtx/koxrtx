@@ -24,6 +24,7 @@
 - [【Rails8】ActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
 - [【Rails8】Rails開発で出会ったエラーとその解決まとめ](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
 - [【Rails8】LINEログイン実装時に遭遇した2つのエラーと解決方法](https://qiita.com/koxrtx/items/76ebfd9b0d6174a08a4a)
+- [Renderでのメモリ不足をRails8＋Cloudinaryで回避する手順](https://qiita.com/koxrtx/items/e77d8e8a45f703f6c36b)
 
 ### 開発実践記事
 -  [Rails開発初学者がissueベース開発1週間でやらかしたRailsの失敗まとめ](https://qiita.com/koxrtx/items/5f8ec016a31c2c34b0e0)
