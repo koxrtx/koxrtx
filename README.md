@@ -16,11 +16,11 @@
 - - -
 
 ### 📝 技術記事
-### 🏆 初投稿でQiita公式トレンド入り（7000ビュー突破！）
+### 🏆 初投稿でQiita公式トレンド入り（9000ビュー突破！）
 - [【初心者向け】Render.comとNeonで作ったRailsアプリを無料デプロイした手順](https://qiita.com/koxrtx/items/92c014a692a00a91096f?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
 
 ### Rails8 実践記事シリーズ
-- [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a) **（1000ビュー突破）**
+- [【Rails8】Solid Queueでのエラー解消までのメモ](https://qiita.com/koxrtx/items/f379913a6f1110b5366a) **（3000ビュー突破）**
 - [【Rails8】ActiveStorageの画像が表示されず500エラー　原因と対処法まとめ](https://qiita.com/koxrtx/items/c64cf37af8cfde7e58f7)
 - [【Rails8】Rails開発で出会ったエラーとその解決まとめ](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
 - [【Rails8】LINEログイン実装時に遭遇した2つのエラーと解決方法](https://qiita.com/koxrtx/items/76ebfd9b0d6174a08a4a)
